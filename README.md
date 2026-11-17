@@ -1,2 +1,2 @@
 # Reset-n-escape
-Press secret key combination, reset the system and escape from the situation 
+Press secret combination key, reset the system and escape from the situation 
